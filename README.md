@@ -25,9 +25,9 @@
 Parts: <br>
   <a href="https://github.com/waitless-app/waitless_mobile_pwa">Progressive Web App - Customer</a>
   <span> | </span>
-  <a href="https://medium.com/saleor">Frontend - Vendor</a>
+  <a href="https://github.com/waitless-app/waitless_frontend">Frontend - Vendor</a>
   <span> | </span>
-    <a href="https://medium.com/saleor">Backend - Server app </a>
+    <a href="https://github.com/waitless-app/waitless_backend">Backend - Server app </a>
 </div>
 
 <br>
