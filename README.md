@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <strong>Virtual Queue Ordering App</strong>
+  <strong>Web Queue Ordering App</strong>
 </div>
 
 
