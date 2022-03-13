@@ -8,6 +8,12 @@
 </div>
 
 <div align="center">
+  <h2>Vue 3, Composition API, Atomic Design, Tailwind | React, React Query, AntD | Django Channels, Django Rest Framework, Docker, Github Actions</h2>
+</div>
+
+
+
+<div align="center">
   <strong>Web Queue Ordering App</strong>
 </div>
 
