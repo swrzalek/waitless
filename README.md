@@ -111,7 +111,7 @@ In order to keep it clean there are limitations on app, which is **one premises 
 
 ## Contributing and Conclusion
 
-I would love your contributions and help in making it better. It still needs strong refactor and I am working on it. My goal is to make it good enough to refer to it as quality example.
+I would love your contributions and help in making it better.
 
 
 #### Crafted with ❤️ by [Sebastian Wrzalek](https//howly.dev)
